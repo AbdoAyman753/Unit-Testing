@@ -1,0 +1,17 @@
+{
+  "name": "unit-testing",
+  "version": "1.0.0",
+  "description": "learning unit testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon --exec jasmine"
+  },
+  "author": "Abdelrahman M.Ayman",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^5.0.0",
+    "nodemon": "^2.0.22"
+  },
+  "dependencies": {
+  }
+}
